@@ -97,8 +97,3 @@ To see all my featured projects, visit my [Portfolio Website](https://your-portf
   <i>Usually responds within 24 hours</i>
 </p>
 
----
-
-<p align="center">
-  <i>⭐ This README is auto-generated from <a href="./portfolio.json">portfolio.json</a></i>
-</p>

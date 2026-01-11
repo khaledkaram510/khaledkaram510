@@ -12,14 +12,14 @@
       "TypeScript",
       "Portfolio"
     ],
-    "roles": ["Full Stack Developer", "Frontend Engineer", "UI/UX Enthusiast"],
-    "location": "Your Location",
-    "email": "your@email.com",
+    "roles": ["Full Stack Developer", "Frontend Engineer"],
+    "location": "Cairo, Egypt",
+    "email": "khaledkaram.dev@gmail.com",
     "socials": {
       "github": "https://github.com/khaledkaram510",
       "linkedin": "https://linkedin.com/in/khaledkaram510",
       "twitter": "https://twitter.com/khaledkaram510",
-      "email": "mailto:your@email.com"
+      "email": "mailto:khaledkaram.dev@gmail.com"
     }
   },
   "aboutMe": {
@@ -29,8 +29,9 @@
     "highlights": [
       "Professional development experience",
       "Specialized in React, Next.js, and TypeScript",
-      "Strong focus on UI/UX and accessibility",
-      "Experience with both startups and enterprise projects"
+      "Experience with both startups and enterprise projects",
+      "Strong focus on performance and accessibility",
+      "AI enhanced development "
     ]
   },
   "skills": {
@@ -60,7 +61,8 @@
       "AWS",
       "Figma",
       "VS Code",
-      "GitHub Actions"
+      "GitHub Actions",
+      "AI Tools"
     ]
   },
   "experience": [
@@ -87,19 +89,19 @@
   ],
   "education": [
     {
-      "degree": "Your Degree",
-      "institution": "Your University",
-      "startYear": 2015,
-      "endYear": 2019,
-      "details": "Details about your education and achievements."
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Helwan University",
+      "startYear": 2022,
+      "endYear": 2026,
+      "details": "Graduated with honors, focusing on software development and web technologies."
     }
   ],
   "contact": {
     "header": "Get In Touch",
     "subHeader": "Let's Build Something Amazing",
     "description": "I'm currently open to new opportunities and interesting projects. Whether you have a question, want to collaborate, or just want to say hi, I'd love to hear from you!",
-    "email": "your@email.com",
-    "phone": "+1234567890",
+    "email": "khaledkaram.dev@gmail.com",
+    "phone": "+201553176670",
     "availability": "Available for freelance projects",
     "responseTime": "Usually responds within 24 hours"
   }
