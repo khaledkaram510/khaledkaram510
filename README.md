@@ -10,11 +10,12 @@ Building modern web experiences with React & Next.js
 
 I'm a passionate Full Stack Developer specializing in building exceptional digital experiences. With experience in modern web technologies, I focus on creating performant, accessible, and visually stunning applications. I love turning complex problems into simple, beautiful solutions.
 
-- ✨ Professional development experience
+- ✨ Strong debugging skills for AI generated code
 - ✨ Specialized in React, Next.js, and TypeScript
+- ✨ Professional development experience
 - ✨ Experience with both startups and enterprise projects
 - ✨ Strong focus on performance and accessibility
-- ✨ AI enhanced development 
+- ✨ AI enhanced development
 
 ---
 
@@ -34,21 +35,12 @@ I'm a passionate Full Stack Developer specializing in building exceptional digit
 ### 💼 Experience
 
 
-#### Senior Frontend Developer @ Your Company
-📍 Your Location | 📅 2022-01 - Present
-
-Lead frontend development for enterprise applications. Architected scalable systems and improved performance significantly.
-
-**Tech:** `Next.js` • `TypeScript` • `GraphQL` • `Tailwind CSS`
-
----
-
-#### Frontend Developer @ Previous Company
-📍 Remote | 📅 2020-06 - 2021-12
+#### Frontend Developer @ EvaTech Solutions
+📍 Remote | 📅 2024-06 - 2024-12
 
 Built and maintained multiple React applications. Implemented design system and component library.
 
-**Tech:** `React` • `Redux` • `Styled Components` • `Jest`
+**Tech:** `React` • `Redux` • `Styled Components` • `Jest` • `Tailwind CSS`
 
 
 ---
