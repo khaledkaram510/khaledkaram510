@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "meta": {
+    "name": "Khaled Karam",
+    "title": "Next.js Developer",
+    "tagline": "Building modern web experiences with React & Next.js",
+    "avatar": "https://github.com/khaledkaram510.png",
+    "keywords": [
+      "Full Stack Developer",
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Portfolio"
+    ],
+    "roles": ["Full Stack Developer", "Frontend Engineer", "UI/UX Enthusiast"],
+    "location": "Your Location",
+    "email": "your@email.com",
+    "socials": {
+      "github": "https://github.com/khaledkaram510",
+      "linkedin": "https://linkedin.com/in/khaledkaram510",
+      "twitter": "https://twitter.com/khaledkaram510",
+      "email": "mailto:your@email.com"
+    }
+  },
+  "aboutMe": {
+    "header": "About Me",
+    "subHeader": "WHO AM I?",
+    "description": "I'm a passionate Full Stack Developer specializing in building exceptional digital experiences. With experience in modern web technologies, I focus on creating performant, accessible, and visually stunning applications. I love turning complex problems into simple, beautiful solutions.",
+    "highlights": [
+      "Professional development experience",
+      "Specialized in React, Next.js, and TypeScript",
+      "Strong focus on UI/UX and accessibility",
+      "Experience with both startups and enterprise projects"
+    ]
+  },
+  "skills": {
+    "frontend": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Framer Motion"
+    ],
+    "backend": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "MongoDB",
+      "GraphQL",
+      "REST APIs",
+      "Prisma"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "Vercel",
+      "AWS",
+      "Figma",
+      "VS Code",
+      "GitHub Actions"
+    ]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "title": "Senior Frontend Developer",
+      "company": "Your Company",
+      "location": "Your Location",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "description": "Lead frontend development for enterprise applications. Architected scalable systems and improved performance significantly.",
+      "technologies": ["Next.js", "TypeScript", "GraphQL", "Tailwind CSS"]
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer",
+      "company": "Previous Company",
+      "location": "Remote",
+      "startDate": "2020-06",
+      "endDate": "2021-12",
+      "description": "Built and maintained multiple React applications. Implemented design system and component library.",
+      "technologies": ["React", "Redux", "Styled Components", "Jest"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Your Degree",
+      "institution": "Your University",
+      "startYear": 2015,
+      "endYear": 2019,
+      "details": "Details about your education and achievements."
+    }
+  ],
+  "contact": {
+    "header": "Get In Touch",
+    "subHeader": "Let's Build Something Amazing",
+    "description": "I'm currently open to new opportunities and interesting projects. Whether you have a question, want to collaborate, or just want to say hi, I'd love to hear from you!",
+    "email": "your@email.com",
+    "phone": "+1234567890",
+    "availability": "Available for freelance projects",
+    "responseTime": "Usually responds within 24 hours"
+  }
+}

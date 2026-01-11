@@ -1,0 +1,18 @@
+{
+  "_comment": "=============================================================================",
+  "_comment2": "PROJECT .portfolio.json - Place this in each project repo you want to showcase",
+  "_comment3": "=============================================================================",
+  "_comment4": "This file provides rich metadata for the portfolio website.",
+  "_comment5": "If this file doesn't exist, basic repo metadata is used as fallback.",
+  "_comment6": "Rename this file to .portfolio.json in your project repos.",
+  
+  "name": "E-Commerce Platform",
+  "description": "A full-stack e-commerce platform with real-time inventory, payment processing, and admin dashboard.",
+  "imagePreview": "https://raw.githubusercontent.com/khaledkaram510/ecommerce/main/preview.png",
+  "tags": ["Featured", "Full Stack"],
+  "technologies": ["Next.js", "TypeScript", "Prisma", "Stripe", "PostgreSQL"],
+  "featured": true,
+  "order": 1,
+  "deployedLink": "https://myecommerce.vercel.app",
+  "hidden": false
+}
