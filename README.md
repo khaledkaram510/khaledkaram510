@@ -12,8 +12,9 @@ I'm a passionate Full Stack Developer specializing in building exceptional digit
 
 - ✨ Professional development experience
 - ✨ Specialized in React, Next.js, and TypeScript
-- ✨ Strong focus on UI/UX and accessibility
 - ✨ Experience with both startups and enterprise projects
+- ✨ Strong focus on performance and accessibility
+- ✨ AI enhanced development 
 
 ---
 
@@ -26,11 +27,12 @@ I'm a passionate Full Stack Developer specializing in building exceptional digit
 `Node.js` • `Express` • `PostgreSQL` • `MongoDB` • `GraphQL` • `REST APIs` • `Prisma`
 
 **Tools:**  
-`Git` • `Docker` • `Vercel` • `AWS` • `Figma` • `VS Code` • `GitHub Actions`
+`Git` • `Docker` • `Vercel` • `AWS` • `Figma` • `VS Code` • `GitHub Actions` • `AI Tools`
 
 ---
 
 ### 💼 Experience
+
 
 #### Senior Frontend Developer @ Your Company
 📍 Your Location | 📅 2022-01 - Present
@@ -48,20 +50,23 @@ Built and maintained multiple React applications. Implemented design system and 
 
 **Tech:** `React` • `Redux` • `Styled Components` • `Jest`
 
+
 ---
 
 ### 🎓 Education
 
-**Your Degree**  
-🏛️ Your University | 📅 2015 - 2019
 
-Details about your education and achievements.
+**Bachelor of Science in Computer Science**  
+🏛️ Helwan University | 📅 2022 - 2026
+
+Graduated with honors, focusing on software development and web technologies.
+
 
 ---
 
 ### 📫 Let's Connect!
 
-- 📧 **Email:** [your@email.com](mailto:your@email.com)
+- 📧 **Email:** [khaledkaram.dev@gmail.com](mailto:khaledkaram.dev@gmail.com)
 - 💼 **LinkedIn:** [khaledkaram510](https://linkedin.com/in/khaledkaram510)
 - 🐦 **Twitter:** [khaledkaram510](https://twitter.com/khaledkaram510)
 - 🌐 **Portfolio:** [View My Work](https://your-portfolio-url.vercel.app)
@@ -97,3 +102,8 @@ To see all my featured projects, visit my [Portfolio Website](https://your-portf
   <i>Usually responds within 24 hours</i>
 </p>
 
+---
+
+<p align="center">
+  <i>⭐ This README is auto-generated from <a href="./portfolio.json">portfolio.json</a></i>
+</p>
