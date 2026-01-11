@@ -27,11 +27,12 @@
     "subHeader": "WHO AM I?",
     "description": "I'm a passionate Full Stack Developer specializing in building exceptional digital experiences. With experience in modern web technologies, I focus on creating performant, accessible, and visually stunning applications. I love turning complex problems into simple, beautiful solutions.",
     "highlights": [
-      "Professional development experience",
+      "Strong debugging skills for AI generated code",
       "Specialized in React, Next.js, and TypeScript",
+      "Professional development experience",
       "Experience with both startups and enterprise projects",
       "Strong focus on performance and accessibility",
-      "AI enhanced development "
+      "AI enhanced development"
     ]
   },
   "skills": {
@@ -68,23 +69,13 @@
   "experience": [
     {
       "id": 1,
-      "title": "Senior Frontend Developer",
-      "company": "Your Company",
-      "location": "Your Location",
-      "startDate": "2022-01",
-      "endDate": "Present",
-      "description": "Lead frontend development for enterprise applications. Architected scalable systems and improved performance significantly.",
-      "technologies": ["Next.js", "TypeScript", "GraphQL", "Tailwind CSS"]
-    },
-    {
-      "id": 2,
       "title": "Frontend Developer",
-      "company": "Previous Company",
+      "company": "EvaTech Solutions",
       "location": "Remote",
-      "startDate": "2020-06",
-      "endDate": "2021-12",
+      "startDate": "2024-06",
+      "endDate": "2024-12",
       "description": "Built and maintained multiple React applications. Implemented design system and component library.",
-      "technologies": ["React", "Redux", "Styled Components", "Jest"]
+      "technologies": ["React", "Redux", "Styled Components", "Jest" ,"Tailwind CSS"]
     }
   ],
   "education": [
