@@ -5,6 +5,8 @@
     "title": "Next.js Developer",
     "tagline": "Building modern web experiences with React & Next.js",
     "avatar": "https://github.com/khaledkaram510.png",
+    "avatarLight": "/avatar-light.webp",
+    "avatarDark": "/avatar-dark.webp",
     "keywords": [
       "Full Stack Developer",
       "Next.js",
@@ -18,7 +20,6 @@
     "socials": {
       "github": "https://github.com/khaledkaram510",
       "linkedin": "https://linkedin.com/in/khaledkaram510",
-      "twitter": "https://twitter.com/khaledkaram510",
       "email": "mailto:khaledkaram.dev@gmail.com"
     }
   },
@@ -75,7 +76,13 @@
       "startDate": "2024-06",
       "endDate": "2024-12",
       "description": "Built and maintained multiple React applications. Implemented design system and component library.",
-      "technologies": ["React", "Redux", "Styled Components", "Jest" ,"Tailwind CSS"]
+      "technologies": [
+        "React",
+        "Redux",
+        "Styled Components",
+        "Jest",
+        "Tailwind CSS"
+      ]
     }
   ],
   "education": [
