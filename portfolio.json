@@ -17,6 +17,7 @@
     "roles": ["Full Stack Developer", "Frontend Engineer"],
     "location": "Cairo, Egypt",
     "email": "khaledkaram.dev@gmail.com",
+    "cv": "https://drive.google.com/file/d/1eC36Gn9ZQaOsiu0pUYdmwXmwYUQ1jpll/view?usp=sharing",
     "socials": {
       "github": "https://github.com/khaledkaram510",
       "linkedin": "https://linkedin.com/in/khaledkaram510",
@@ -45,7 +46,10 @@
       "HTML5",
       "CSS3",
       "Tailwind CSS",
-      "Framer Motion"
+      "Framer Motion",
+      "GSAP",
+      "Redux",
+      "shadcn/ui"
     ],
     "backend": [
       "Node.js",
@@ -54,7 +58,8 @@
       "MongoDB",
       "GraphQL",
       "REST APIs",
-      "Prisma"
+      "Prisma",
+      "golang (Fiber)"
     ],
     "tools": [
       "Git",
@@ -70,17 +75,17 @@
   "experience": [
     {
       "id": 1,
-      "title": "Frontend Developer",
-      "company": "EvaTech Solutions",
+      "title": "Software Engineer / Full-Stack Developer",
+      "company": "Medical Network",
       "location": "Remote",
-      "startDate": "2024-06",
-      "endDate": "2024-12",
-      "description": "Built and maintained multiple React applications. Implemented design system and component library.",
+      "startDate": "2026-01",
+      "endDate": "present",
+      "description": "Medical Network is an officially registered healthcare technology company developing a multi-tenant SaaS platform for healthcare providers across Egypt, including clinics, hospitals, laboratories, and pharmacies.",
       "technologies": [
-        "React",
-        "Redux",
-        "Styled Components",
-        "Jest",
+        "Next.js",
+        "TypeScript",
+        "Go (Fiber)",
+        "Shadcn/ui",
         "Tailwind CSS"
       ]
     }

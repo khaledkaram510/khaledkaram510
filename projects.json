@@ -1,11 +1,11 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "projects": [
+[
     {
       "id": 1,
       "name": "E-Commerce Platform",
       "description": "A full-stack e-commerce platform with real-time inventory, payment processing, and admin dashboard. Built with Next.js and Stripe integration.",
-      "imagePreview": "/projects/ecommerce.png",
+      "coverImageId": "/projects/ecommerce.png",
+      "galleryImageIds": ["/projects/ecommerce.png", "/projects/ecommerce.png"],
+      "DemoVideosIds": ["/projects/ecommerce-demo.mp4"],
       "tags": ["Featured", "Full Stack"],
       "technologies": [
         "Next.js",
@@ -17,61 +17,5 @@
       "deployedLink": "https://demo-ecommerce.vercel.app",
       "sourceCodeLink": "https://github.com/khaledkaram/ecommerce",
       "featured": true
-    },
-    {
-      "id": 2,
-      "name": "Task Management App",
-      "description": "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
-      "imagePreview": "/projects/taskapp.png",
-      "tags": ["Full Stack", "Real-time"],
-      "technologies": ["React", "Node.js", "Socket.io", "MongoDB"],
-      "deployedLink": "https://taskapp.demo.com",
-      "sourceCodeLink": "https://github.com/khaledkaram/taskapp",
-      "featured": true
-    },
-    {
-      "id": 3,
-      "name": "Weather Dashboard",
-      "description": "A beautiful weather dashboard with location-based forecasts, interactive maps, and severe weather alerts.",
-      "imagePreview": "/projects/weather.png",
-      "tags": ["Frontend", "API Integration"],
-      "technologies": ["Next.js", "OpenWeather API", "Mapbox", "Tailwind CSS"],
-      "deployedLink": "https://weather.demo.com",
-      "sourceCodeLink": "https://github.com/khaledkaram/weather",
-      "featured": false
-    },
-    {
-      "id": 4,
-      "name": "Portfolio Template",
-      "description": "A modern, customizable portfolio template for developers. Features dark mode, animations, and easy content management.",
-      "imagePreview": "/projects/portfolio.png",
-      "tags": ["Open Source", "Template"],
-      "technologies": ["Next.js", "TypeScript", "GSAP", "Tailwind CSS"],
-      "deployedLink": "https://portfolio.demo.com",
-      "sourceCodeLink": "https://github.com/khaledkaram/portfolio",
-      "featured": true
-    },
-    {
-      "id": 5,
-      "name": "Blog Platform",
-      "description": "A headless CMS-powered blog platform with MDX support, syntax highlighting, and SEO optimization.",
-      "imagePreview": "/projects/blog.png",
-      "tags": ["Content", "SEO"],
-      "technologies": ["Next.js", "MDX", "Contentlayer", "Vercel"],
-      "deployedLink": "https://blog.demo.com",
-      "sourceCodeLink": "https://github.com/khaledkaram/blog",
-      "featured": false
-    },
-    {
-      "id": 6,
-      "name": "Analytics Dashboard",
-      "description": "A real-time analytics dashboard with customizable widgets, data visualization, and export capabilities.",
-      "imagePreview": "/projects/analytics.png",
-      "tags": ["Data Visualization", "Dashboard"],
-      "technologies": ["React", "D3.js", "Express", "PostgreSQL"],
-      "deployedLink": "https://analytics.demo.com",
-      "sourceCodeLink": "https://github.com/khaledkaram/analytics",
-      "featured": false
     }
   ]
-}
