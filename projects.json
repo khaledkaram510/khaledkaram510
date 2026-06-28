@@ -1,21 +1,49 @@
 [
     {
       "id": 1,
-      "name": "E-Commerce Platform",
-      "description": "A full-stack e-commerce platform with real-time inventory, payment processing, and admin dashboard. Built with Next.js and Stripe integration.",
-      "coverImageId": "/projects/ecommerce.png",
-      "galleryImageIds": ["/projects/ecommerce.png", "/projects/ecommerce.png"],
-      "DemoVideosIds": ["/projects/ecommerce-demo.mp4"],
-      "tags": ["Featured", "Full Stack"],
+      "name": "Fahmny DSA",
+      "description": "AI-powered educational platform that helps students, instructors, and developers understand Data Structures and Algorithms through interactive visualizations generated directly from their source code.",
+      "coverImageId": "mpv-shot0004_uyag9l.jpg",
+      "galleryImageIds": ["mpv-shot0003_erldt5.jpg", "mpv-shot0004_uyag9l.jpg", "mpv-shot0005_mxaibi.jpg", "mpv-shot0001_htfsja.jpg","mpv-shot0002_nxpnyv.jpg"],
+      "DemoVideosIds": ["https://youtu.be/fNKnlwgMHeM"],
+      "tags": ["Featured", "Frontend"],
       "technologies": [
         "Next.js",
         "TypeScript",
-        "Prisma",
-        "Stripe",
-        "PostgreSQL"
+        "React Flow",
+        "Tailwind CSS",
+        "Tanstack Query",
+        "Monaco Editor",
+        "Shadcn/ui",
+        "PostgreSQL",
+        "Python",
+        ".Net"
       ],
-      "deployedLink": "https://demo-ecommerce.vercel.app",
-      "sourceCodeLink": "https://github.com/khaledkaram/ecommerce",
+      "deployedLink": "",
+      "sourceCodeLink": "",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Smart Clinic Appointment System",
+      "description": "Microservices-based healthcare management platform supporting authentication, doctor scheduling, appointment booking, medical visits, billing, and automated patient reminders.",
+      "coverImageId": "Screenshot_2026-05-16_193221_cvdub5.png",
+      "galleryImageIds": ["Screenshot_2026-05-16_193221_cvdub5.png", "Screenshot_2026-05-16_193230_sewryg.png", "Screenshot_2026-05-16_193236_huo78x.png", "Screenshot_2026-05-16_193241_sobiqn.png","Screenshot_2026-05-16_193248_unvjtl.png","Screenshot_2026-05-16_193257_fp7oqa.png","Screenshot_2026-05-16_193304_sgmdpq.png","Screenshot_2026-05-16_193312_bfpnih.png","Screenshot_2026-05-16_193319_nycsiz.png","Screenshot_2026-05-16_193343_kuaqmr.png","Screenshot_2026-05-16_193405_fvigdm.png","Screenshot_2026-05-16_193417_sjnooi.png"],
+      "DemoVideosIds": ["https://youtu.be/ASt-cXJBKSE"],
+      "tags": ["Featured", "Frontend"],
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Tanstack Query",
+        "Refine",
+        "Shadcn/ui",
+        "PostgreSQL",
+        ".Net",
+        "Spring Boot"
+      ],
+      "deployedLink": "",
+      "sourceCodeLink": "",
       "featured": true
     }
   ]
