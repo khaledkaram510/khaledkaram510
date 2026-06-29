@@ -45,5 +45,80 @@
       "deployedLink": "",
       "sourceCodeLink": "",
       "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Elrooh Shopify Store",
+      "description": "My first deployed Shopify e-commerce store tailored to business branding and customer experience requirements.",
+      "coverImageId": "Soft-Silicone-Shark-Hair-Clip-_-Elrooh-06-29-2026_05_17_PM_nmzlap.png",
+      "galleryImageIds": ["Soft-Silicone-Shark-Hair-Clip-_-Elrooh-06-29-2026_05_17_PM_nmzlap.png","Elrooh-06-29-2026_04_45_PM_dslxbx.png"],
+      "DemoVideosIds": [],
+      "tags": [ "E-commerce"],
+      "technologies": [
+        "Shpify",
+        "Liquid"
+      ],
+      "deployedLink": "https://elrooh.com/",
+      "sourceCodeLink": "",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Medical Network Platform",
+      "description": "Medical Network is an officially registered healthcare technology company developing a multi-tenant SaaS platform for healthcare providers across Egypt, including clinics, hospitals, laboratories, and pharmacies.",
+      "coverImageId": "",
+      "galleryImageIds": [],
+      "DemoVideosIds": [],
+      "tags": [ "Frontend", "Software Development", "Saas"],
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Tanstack Query",
+        "Refine",
+        "Shadcn/ui",
+        "PostgreSQL",
+        "Golang (Fiber)"
+      ],
+      "deployedLink": "https://medicalnetwork-g.com/",
+      "sourceCodeLink": "",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "Converting PDF Templates to Dynamic HTML Pages",
+      "description": "I worked on converting PDF templates (bill and ticket pages) into dynamic HTML pages using Handlebars.js to fetch data from JSON files. Both pages were designed to be fully responsive across devices and print-friendly for easy printing 🖨️. For the ticket page, I also added a feature to auto-generate QR codes, making it convenient for ticket validation 🎫📲",
+      "coverImageId": "image_original_weprfa.png",
+      "galleryImageIds": ["image_original_weprfa.png","image_original_1_emyoyc.png"],
+      "DemoVideosIds": ["O9-D0cbxdYE"],
+      "tags": [ "Mobile App"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Handlebars.js",
+        "JSON"
+      ],
+      "deployedLink": "",
+      "sourceCodeLink": "",
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "ECU_AN",
+      "description": "Cross-platform mobile attendance application supporting QR code and NFC-based attendance tracking with automatic Excel report generation.",
+      "coverImageId": "",
+      "galleryImageIds": [],
+      "DemoVideosIds": [],
+      "tags": [ "Mobile App"],
+      "technologies": [
+        "Expo",
+        "React Native",
+        "TypeScript",
+        "Nativewind CSS"
+      ],
+      "deployedLink": "",
+      "sourceCodeLink": "",
+      "featured": false
     }
   ]
